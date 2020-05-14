@@ -7,5 +7,6 @@ HTML/CSS/Javascript(ES6)
   
 ■実装機能  
 ・CRUD  
+・ソート機能  
 ・momentJS(更新時間管理)  
 ・uuid(一意id生成)  

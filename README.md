@@ -1,6 +1,7 @@
 # メモアプリ  
   
 Javascript/DOM 操作の知識を学習するためにメモアプリを作成しました。  
+デモページはこちら→ https://tomo-std.com/notes-app/index.html  
   
 HTML/CSS/Javascript(ES6)  
   
